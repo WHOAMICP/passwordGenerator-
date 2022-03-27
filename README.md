@@ -7,7 +7,7 @@ $pkg install git
 
 $pkg install python
 
-$git clone
+$git clone https://github.com/WHOAMICP/passwordGenerator-.git
 
 $cd passwordGenerator
 
